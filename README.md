@@ -16,7 +16,7 @@
 | 1 | Пользовательские запросы в веб-приложении | [ПР №1](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961.md) |
 | 2 | MVC 😢 | [ПР №2]() |
 | 3 | Оптимизация изображений | [ПР №3](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%963.md) |
-| 4 | Мобильная оптимизация и адаптивность 😢 | [ПР №4]() |
+| 4 | Мобильная оптимизация и адаптивность | [ПР №4](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%964.md) |
 
 ### Лабораторные работы
 | № | Название | Ссылка |
