@@ -23,7 +23,7 @@
 |---|----------|--------|
 | 1 | ЛР №1 (В-3) Проведение общего аудита сайта | [ЛР №1](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961.md) |
 | 2 | ЛР №2 (В-3) Техническая оптимизация| [ЛР №2](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/Лабораторная%20работа%20№2.md) |
-| 3 | ЛР №3 Sitemap 😢 | [ЛР №3]() |
+| 3 | ЛР №3 Sitemap | [ЛР №3](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/Лабораторная%20работа%20№3.md) |
 
 ### Домашние задания
 | № | Название | Ссылка |
