@@ -37,8 +37,8 @@
 | 1 | Анализ конкурентов | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.md) | ☑ |
 | 2 | Запросы | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.md) | ☐ |
 | 3 | ГОСТ 34 и 19 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/GOSTs.md) | ☐ |
-| 4 | Robots.txt 😢 | [ДЗ]() | ☐ |
-| 5 | Доклад ЖЦ HTTP-запроса 😢 | [ДЗ]() | ☐ |
+| 4 | Robots.txt 😢 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/photki/rab6.jpg) | ☐ |
+| 5 | Доклад ЖЦ HTTP-запроса 😢 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/photki/rab7.jpg) | ☐ |
 
 ### Конспекты
 | № | Название | Ссылка |
@@ -53,6 +53,6 @@
 | 8 | Построение архитектуры проекта. Шаблон проекта | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/8.%20%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.%20%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0..md) |
 | 9 | Улучшение внутренней структуры ресурса | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/%D0%A7%D0%9F%D0%A3.md) |
 | 10 | Оптимизация изображений | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/10.%20%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.md) |
-| 11 | Адаптивные макеты 😢 | [Конспект]() |
-| 12 | Правила семантической верстки 😢 | [Конспект]() |
+| 11 | Адаптивные макеты 😢 | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/photki/rab8.jpg) |
+| 12 | Правила семантической верстки 😢 | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/photki/rab9.jpg) |
 | 13 | DOM | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/DOM.md) |
