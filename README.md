@@ -37,7 +37,7 @@
 | 1 | Анализ конкурентов | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.md) | ☑ |
 | 2 | Запросы | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.md) | ☐ |
 | 3 | ГОСТ 34 и 19 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/GOSTs.md) | ☐ |
-| 4 | Robots.txt 😢 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/photki/rab10.jpg) | ☐ |
+| 4 | Robots.txt 😢 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/photki/rab11.jpg) | ☐ |
 | 5 | Доклад ЖЦ HTTP-запроса 😢 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/photki/rab7.jpg) | ☐ |
 
 ### Конспекты
