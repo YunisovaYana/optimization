@@ -14,10 +14,10 @@
 | № | Название | Ссылка | Сдано? |
 |---|----------|--------|-------|
 | 1 | Пользовательские запросы в веб-приложении | [ПР №1](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%961.md) | ☑ |
-| 2 | MVC 😢 | [ПР №2](https://github.com/YunisovaYana/optimization/blob/main/photki/rab.jpg) | ☐ |
+| 2 | MVC 😢 (НАЧАТО мяу) | [ПР №2](https://github.com/YunisovaYana/optimization/blob/main/photki/rab.jpg) | ☐ |
 | 3 | Оптимизация изображений | [ПР №3](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%963.md) | ☑ |
 | 4 | Мобильная оптимизация и адаптивность | [ПР №4](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%964.md) | ☐ |
-| 5 | Сниппеты, SEO-теги и семантическая разметка 😢 | [ПР №5](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%965.md) | ☐ |
+| 5 | Сниппеты, SEO-теги и семантическая разметка 😢 (НАЧАТО мяу) | [ПР №5](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%965.md) | ☐ |
 
 ### Лабораторные работы
 | № | Название | Ссылка | Сдано? |
@@ -26,8 +26,8 @@
 | 2 | ЛР №2 (В-3) Техническая оптимизация| [ЛР №2](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/Лабораторная%20работа%20№2.md) | ☑ |
 | 3 | ЛР №3 Sitemap | [ЛР №3](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/Лабораторная%20работа%20№3.md) | ☑ |
 | 4 | ЛР №4 😢 Семантическое ядро и его друзьяшки| [ЛР №4](https://github.com/YunisovaYana/optimization/blob/main/photki/rab2.jpg) | ☐ |
-| 5 | ЛР №5 😢 Адаптивный дизайн и UX-аудит| [ЛР №5](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%965.md) | ☐ |
-| 6 | ЛР №6 😢 Поисковая оптимизация (SEO)| [ЛР №6](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%966.md) | ☐ |
+| 5 | ЛР №5 😢 Адаптивный дизайн и UX-аудит (НАЧАТО мяу) | [ЛР №5](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%965.md) | ☐ |
+| 6 | ЛР №6 😢 Поисковая оптимизация (SEO) (НАЧАТО мяу) | [ЛР №6](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%966.md) | ☐ |
 | 7 | ЛР №7 😢 Системы аналитики (Google Analytics, Яндекс.Метрика)| [ЛР №7](https://github.com/YunisovaYana/optimization/blob/main/photki/rab5.jpg) | ☐ |
 
 
