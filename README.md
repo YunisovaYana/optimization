@@ -30,6 +30,15 @@
 | 6 | ЛР №6 😢 Поисковая оптимизация (SEO) (НАЧАТО мяу) | [ЛР №6](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%966.md) | ☐ |
 | 7 | ЛР №7 😢 Системы аналитики (Google Analytics, Яндекс.Метрика)| [ЛР №7](https://github.com/YunisovaYana/optimization/blob/main/photki/rab5.jpg) | ☐ |
 
+### Учебная практика  
+| № | Название | Ссылка | Сдано? |
+|---|----------|--------|-------|
+| 1 | Тема 1 | [УП №1](https://github.com/YunisovaYana/optimization/blob/main/photki/rab.jpg) | ☐ |
+| 2 | Тема 2 | [УП №2](https://github.com/YunisovaYana/optimization/blob/main/photki/rab1.jpg) | ☐ |
+| 3 | Тема 3 | [УП №3](https://github.com/YunisovaYana/optimization/blob/main/photki/rab2.jpg) | ☐ |
+| 4 | Тема 4 | [УП №4](https://github.com/YunisovaYana/optimization/blob/main/photki/rab3.jpg) | ☐ |
+| 5 | Тема 5 | [УП №5](https://github.com/YunisovaYana/optimization/blob/main/photki/rab4.jpg) | ☐ |
+| 6 | Тема 6 | [УП №6](https://github.com/YunisovaYana/optimization/blob/main/photki/rab5.jpg) | ☐ |
 
 ### Домашние задания
 | № | Название | Ссылка | Сдано? |
