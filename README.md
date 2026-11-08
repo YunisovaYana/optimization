@@ -33,7 +33,7 @@
 ### Учебная практика  
 | № | Название | Ссылка | Сдано? |
 |---|----------|--------|-------|
-| 1 | Тема 1 | [УП №1](https://github.com/YunisovaYana/optimization/blob/main/UP/Практическая%20работа%201%20Аудит%20доступности%20сайта.pdf) | ☐ |
+| 1 | Аудит доступности сайта | [УП №1](https://github.com/YunisovaYana/optimization/blob/main/UP/Практическая%20работа%201%20Аудит%20доступности%20сайта.pdf) | ☐ |
 | 2 | Тема 2 | [УП №2](https://github.com/YunisovaYana/optimization/blob/main/photki/rab1.jpg) | ☐ |
 | 3 | Тема 3 | [УП №3](https://github.com/YunisovaYana/optimization/blob/main/photki/rab2.jpg) | ☐ |
 | 4 | Тема 4 | [УП №4](https://github.com/YunisovaYana/optimization/blob/main/photki/rab3.jpg) | ☐ |
