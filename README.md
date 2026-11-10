@@ -36,7 +36,7 @@
 | № | Название | Ссылка | Сдано? |
 |---|----------|--------|-------|
 | 1 | Аудит доступности сайта | [УП №1](https://github.com/YunisovaYana/optimization/blob/main/UP/Практическая%20работа%201%20Аудит%20доступности%20сайта.pdf) | ☐ |
-| 2 | Тема 2 | [УП №2](https://github.com/YunisovaYana/optimization/blob/main/photki/rab1.jpg) | ☐ |
+| 2 | Тема 2 | [УП №2](https://github.com/YunisovaYana/optimization/blob/main/photki/rab7.jpg) | ☐ |
 | 3 | Тема 3 | [УП №3](https://github.com/YunisovaYana/optimization/blob/main/photki/rab2.jpg) | ☐ |
 | 4 | Тема 4 | [УП №4](https://github.com/YunisovaYana/optimization/blob/main/photki/rab3.jpg) | ☐ |
 | 5 | Тема 5 | [УП №5](https://github.com/YunisovaYana/optimization/blob/main/photki/rab4.jpg) | ☐ |
@@ -46,7 +46,7 @@
 | № | Название | Ссылка | Сдано? |
 |---|----------|--------|-------|
 | 1 | Анализ конкурентов | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.md) | ☑ |
-| 2 | Запросы | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.md) | ☐ |
+| 2 | Запросы 😢 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/photki/rab10.jpg) | ☐ |
 | 3 | ГОСТ 34 и 19 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/GOSTs.md) | ☐ |
 | 4 | Robots.txt 😢 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/photki/rab11.jpg) | ☐ |
 | 5 | Доклад ЖЦ HTTP-запроса 😢 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/photki/rab7.jpg) | ☐ |
