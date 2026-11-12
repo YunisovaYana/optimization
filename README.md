@@ -29,8 +29,8 @@
 | 5 | ЛР №5🎅🏻 Адаптивный дизайн и UX-аудит | [ЛР №5](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%965.md) | ☐ |
 | 6 | ЛР №6 Поисковая оптимизация (SEO) | [ЛР №6](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%966.md) | ☐ |
 | 7 | ЛР №7 😢🎅🏻  Системы аналитики (Google Analytics, Яндекс.Метрика) | [ЛР №7](https://github.com/YunisovaYana/optimization/blob/main/photki/rab6.jpg) | ☐ |
-| 8 | ЛР №8 😢🎅🏻  Настройка Apache + PHP-FPM в VirtualBox с SSH-доступом | [ЛР №8](https://github.com/YunisovaYana/optimization/blob/main/photki/rab13.jpg) | ☐ |
-| 9 | ЛР №9 😢🎅🏻  Настройка Nginx PHP FPM в VirtualBox с SSH доступом и WebSocket чат| [ЛР №9](https://github.com/YunisovaYana/optimization/blob/main/photki/rab16.jpg) | ☐ |
+| 8 | ЛР №8 😢  Настройка Apache + PHP-FPM в VirtualBox с SSH-доступом | [ЛР №8](https://github.com/YunisovaYana/optimization/blob/main/photki/rab13.jpg) | ☐ |
+| 9 | ЛР №9 😢  Настройка Nginx PHP FPM в VirtualBox с SSH доступом и WebSocket чат| [ЛР №9](https://github.com/YunisovaYana/optimization/blob/main/photki/rab16.jpg) | ☐ |
 
 ### Учебная практика  
 | № | Название | Ссылка | Сдано? |
@@ -48,7 +48,7 @@
 | 1 | Анализ конкурентов | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.md) | ☑ |
 | 2 | Запросы 😢🎅🏻  | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.md) | ☐ |
 | 3 | ГОСТ 34 и 19 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/GOSTs.md) | ☐ |
-| 4 | Robots.txt🎅🏻  | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/robots.txt) | ☐ |
+| 4 | Robots.txt  | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/robots.txt) | ☐ |
 | 5 | Доклад ЖЦ HTTP-запроса🎅🏻  | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/HTTP.md) | ☐ |
 
 ### Конспекты
