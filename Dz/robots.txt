@@ -1,0 +1,32 @@
+# robots.txt для сайта приюта "Солнце"
+# https://priut-sun.ru/
+
+# Для Яндекса
+User-agent: YandexBot
+
+Disallow: /online/
+Disallow: /catalog/sobaki-priyuta/
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /search/
+Allow: /
+
+# Для Гугла
+User-agent: Googlebot
+
+Disallow: /online/
+Disallow: /catalog/sobaki-priyuta/
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /search/
+Allow: /
+
+# Для всех остальных поисковых роботов
+User-agent: *
+
+Disallow: /online/
+Disallow: /catalog/sobaki-priyuta/
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /search/
+Allow: /
