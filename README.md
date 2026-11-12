@@ -49,7 +49,7 @@
 | 2 | Запросы 😢🎅🏻  | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.md) | ☐ |
 | 3 | ГОСТ 34 и 19 | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/GOSTs.md) | ☐ |
 | 4 | Robots.txt🎅🏻  | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/robots.txt) | ☐ |
-| 5 | Доклад ЖЦ HTTP-запроса 😢🎅🏻  | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/photki/rab7.jpg) | ☐ |
+| 5 | Доклад ЖЦ HTTP-запроса🎅🏻  | [ДЗ](https://github.com/YunisovaYana/optimization/blob/main/Dz/HTTP.md) | ☐ |
 
 ### Конспекты
 | № | Название | Ссылка |
