@@ -57,12 +57,12 @@
 ### Учебная практика  
 | № | Название | Ссылка | Сдано? |
 |---|----------|--------|-------|
-| 1 | Аудит доступности сайта | [УП №1](https://github.com/YunisovaYana/optimization/blob/main/UP/Практическая%20работа%201%20Аудит%20доступности%20сайта.pdf) | ☐ |
-| 2 | Тема 2 | [УП №2](https://github.com/YunisovaYana/optimization/blob/main/photki/rab6.jpg) | ☐ |
-| 3 | Тема 3 | [УП №3](https://github.com/YunisovaYana/optimization/blob/main/photki/rab12.jpg) | ☐ |
-| 4 | Тема 4 | [УП №4](https://github.com/YunisovaYana/optimization/blob/main/photki/rab14.jpg) | ☐ |
-| 5 | Тема 5 | [УП №5](https://github.com/YunisovaYana/optimization/blob/main/photki/rab11.jpg) | ☐ |
-| 6 | Тема 6 | [УП №6](https://github.com/YunisovaYana/optimization/blob/main/photki/rab5.jpg) | ☐ |
+| 1 | Аудит доступности сайта | [УП №1](https://github.com/YunisovaYana/optimization/blob/main/UP/Практическая%20работа%201%20Аудит%20доступности%20сайта.pdf) | ☑ |
+| 2 | Разработка стратегии контекстной рекламы | [УП №2](https://github.com/YunisovaYana/optimization/blob/main/UP/Практическая%20работа%202%20Контекстная%20реклама.pdf) | ☐ |
+| 3 | Content Marketing | [УП №3](https://github.com/YunisovaYana/optimization/blob/main/photki/rab6.jpg) | ☐ |
+| 4 | Социальный медиа маркетинг | [УП №4](https://github.com/YunisovaYana/optimization/blob/main/photki/rab12.jpg) | ☐ |
+| 5 | Мобильный маркетинг | [УП №5](https://github.com/YunisovaYana/optimization/blob/main/photki/rab14.jpg) | ☐ |
+| 6 | Email-маркетинг | [УП №6](https://github.com/YunisovaYana/optimization/blob/main/photki/rab11.jpg) | ☐ |
 
 ### Домашние задания
 | № | Название | Ссылка | Сдано? |
