@@ -18,6 +18,15 @@
 | 3 | Оптимизация изображений | [ПР №3](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%963.md) | ☑ |
 | 4 | Мобильная оптимизация и адаптивность | [ПР №4](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%964.md) | ☐ |
 | 5 | Сниппеты, SEO-теги и семантическая разметка | [ПР №5](https://github.com/YunisovaYana/optimization/blob/main/Practice_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%965.md) | ☐ |
+| 6 | Short Polling 😢| [ПР №6](https://github.com/YunisovaYana/optimization/blob/main/photki/rab11.jpg) | ☐ |
+| 7 | Long Polling 😢| [ПР №7](https://github.com/YunisovaYana/optimization/blob/main/photki/rab12.jpg) | ☐ |
+| 8 | SSE 😢| [ПР №8](https://github.com/YunisovaYana/optimization/blob/main/photki/rab13.jpg) | ☐ |
+| 9 | WebSocket 😢| [ПР №9](https://github.com/YunisovaYana/optimization/blob/main/photki/rab14.jpg) | ☐ |
+| 10 | Настройка Apache + PHP-FPM в VirtualBox с SSH-доступом 😢| [ПР №10](https://github.com/YunisovaYana/optimization/blob/main/photki/rab9.jpg) | ☐ |
+| 11 | Настройка Nginx PHP FPM в VirtualBox с SSH доступом и WebSocket чат 😢| [ПР №11](https://github.com/YunisovaYana/optimization/blob/main/photki/rab8.jpg) | ☐ |
+| 12 | Редирект 😢| [ПР №12](https://github.com/YunisovaYana/optimization/blob/main/photki/rab7.jpg) | ☐ |
+| 13 | HTTPS (сертификат) 😢| [ПР №13](https://github.com/YunisovaYana/optimization/blob/main/photki/rab6.jpg) | ☐ |
+| 14 | Конверсия 😢| [ПР №14](https://github.com/YunisovaYana/optimization/blob/main/photki/rab5.jpg) | ☐ |
 
 ### Лабораторные работы
 | № | Название | Ссылка | Сдано? |
@@ -29,8 +38,8 @@
 | 5 | ЛР №5 Адаптивный дизайн и UX-аудит | [ЛР №5](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%965.md) | ☐ |
 | 6 | ЛР №6 Поисковая оптимизация (SEO) | [ЛР №6](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%966.md) | ☐ |
 | 7 | ЛР №7  Системы аналитики (Google Analytics, Яндекс.Метрика) | [ЛР №7](https://github.com/YunisovaYana/optimization/blob/main/Lab_works/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%E2%84%967.md) | ☐ |
-| 8 | ЛР №8 😢  Настройка Apache + PHP-FPM в VirtualBox с SSH-доступом | [ЛР №8](https://github.com/YunisovaYana/optimization/blob/main/photki/rab13.jpg) | ☐ |
-| 9 | ЛР №9 😢  Настройка Nginx PHP FPM в VirtualBox с SSH доступом и WebSocket чат| [ЛР №9](https://github.com/YunisovaYana/optimization/blob/main/photki/rab16.jpg) | ☐ |
+| 8 | ЛР №8 😢 Apache | [ЛР №8](https://github.com/YunisovaYana/optimization/blob/main/photki/rab13.jpg) | ☐ |
+| 9 | ЛР №9 😢  Nginx | [ЛР №9](https://github.com/YunisovaYana/optimization/blob/main/photki/rab16.jpg) | ☐ |
 
 ### Учебная практика  
 | № | Название | Ссылка | Сдано? |
