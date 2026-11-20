@@ -73,7 +73,14 @@
 | 7 | Внутренняя оптимизация | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/7.%20%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F%20%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.md) |
 | 8 | Построение архитектуры проекта. Шаблон проекта | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/8.%20%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.%20%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0..md) |
 | 9 | Улучшение внутренней структуры ресурса | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/%D0%A7%D0%9F%D0%A3.md) |
-| 10 | Оптимизация изображений | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/10.%20%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.md) |
-| 11 | Адаптивные макеты 😢 | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/photki/rab8.jpg) |
-| 12 | Правила семантической верстки 😢 | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/photki/rab9.jpg) |
-| 13 | DOM | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/DOM.md) |
+| 10 | Устранение технических ошибок | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/Устранение%20технических%20ошибок%20(дубли%20страниц%2C.md) |
+| 11 | Оптимизация изображений | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/10.%20%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.md) |
+| 12 | Адаптивные макеты 😢 | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/photki/rab8.jpg) |
+| 13 | Правила семантической верстки | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/Семантическая%20верстка.md) |
+| 14 | DOM | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/DOM.md) |
+| 15 | Семантическое ядро | [Конспект](https://github.com/YunisovaYana/optimization/edit/main/konspects/Семантическое%20ядро.md) |
+| 16 | Повышение релевантности страницы | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/Повышение%20релевантности%20страниц.md) |
+| 17 | Использование безопасных соединений по протоколам HTTPS | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/Использование%20безопасных%20соединений%20по%20протоколам%20HTTPS%20с%20использованием%20ключей%20шифрования%20для%20SSL%2C%20TLS%20(Two-way%20TLS).md) |
+| 18 | SMM | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/SMM.md) |
+| 19 | Оптимизация конверсии | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/Оптимизация%20конверсии.md) |
+| 20 | CJM | [Конспект](https://github.com/YunisovaYana/optimization/blob/main/konspects/CJM.md) |
