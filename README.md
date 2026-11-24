@@ -39,7 +39,7 @@
 | 5 | ЛР №5 😢  Nginx | [ЛР №5](https://github.com/YunisovaYana/optimization/blob/main/photki/rab16.jpg) | ☐ | ☔ |
 | 6 | ЛР №6  Системы аналитики (Google Analytics, Яндекс.Метрика) | [ЛР №6](https://github.com/YunisovaYana/optimization/blob/main/photki/rab21.jpg) | ☐ | 🌚☔ |
 | 7 | ЛР №7 Поисковая оптимизация (SEO) | [ЛР №7](https://github.com/YunisovaYana/optimization/blob/main/photki/rab27.jpg) | ☐ | 🌚☔ |
-| 8 | ЛР №8 Семантическое ядро и его друзьяшки| [ЛР №8](](https://github.com/YunisovaYana/optimization/blob/main/photki/rab23.jpg)) | ☐ | ☔ |
+| 8 | ЛР №8 Семантическое ядро и его друзьяшки| [ЛР №8](https://github.com/YunisovaYana/optimization/blob/main/photki/rab23.jpg) | ☐ | ☔ |
 | 9 | ЛР №5 Адаптивный дизайн и UX-аудит | [ЛР №9](https://github.com/YunisovaYana/optimization/blob/main/photki/rab24.jpg) | ☐ | 🌚☔ |
 
 ### Учебная практика  
