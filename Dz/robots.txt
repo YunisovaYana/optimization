@@ -4,7 +4,6 @@ User-agent: YandexNews
 User-agent: YandexMedia
 User-agent: YandexBot
 
-Dissalow:/online/ #онлайн-трансляция
 Dissalow:/catalog/sobaki-priyuta/
 
 #для гугла
